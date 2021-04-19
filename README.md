@@ -1,4 +1,4 @@
-# seguradora
+# Seguradora
 
 Projeto usando o framework Spring Boot e outras tecnologias que auxiliam os desenvolvedores no dia a dia, como:
 
